@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Prevani
+- 🌱 I’m currently learning python!
